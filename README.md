@@ -10,6 +10,8 @@
 > Tracks input/output tokens, cost, and latency for the response generation
 > calls, plus accuracy scores from the Opus judge. Ships with a Streamlit UI
 > for side-by-side comparison.
+> 
+<img width="1358" height="732" alt="Screenshot 2026-05-18 at 7 42 16 PM" src="https://github.com/user-attachments/assets/be55570c-1412-433e-a228-e1119135e044" />
 
 ## Why this benchmark exists
 
