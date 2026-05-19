@@ -13,6 +13,9 @@
 > 
 <img width="1358" height="732" alt="Screenshot 2026-05-18 at 7 42 16 PM" src="https://github.com/user-attachments/assets/be55570c-1412-433e-a228-e1119135e044" />
 
+## Medium Blog: 
+https://bhaiyasingh45.medium.com/i-cut-my-llm-token-usage-in-half-by-switching-from-json-to-toon-and-what-this-means-for-enterprise-2b2672ddbb33
+
 ## Why this benchmark exists
 
 Modern agentic systems for enterprise analytics typically follow this pattern:
